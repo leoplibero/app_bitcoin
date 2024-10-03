@@ -1,6 +1,6 @@
 {
-    "name": "app_atm",
-    "short_name": "app_atm",
+    "name": "imc",
+    "short_name": "imc",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
