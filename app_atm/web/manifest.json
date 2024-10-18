@@ -1,6 +1,6 @@
 {
-    "name": "imc",
-    "short_name": "imc",
+    "name": "appatm",
+    "short_name": "appatm",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
